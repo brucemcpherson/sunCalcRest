@@ -1,5 +1,5 @@
 # Google Apps Script Project: sunCalcRest
-This repo (sunCalcRest) was automatically updated on 13 February 2015 21:20:15 GMT by GasGit
+This repo (sunCalcRest) was automatically updated on 09 June 2015 19:08:24 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project sunCalcRest
