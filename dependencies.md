@@ -1,5 +1,5 @@
 # Google Apps Script Project: sunCalcRest
-This repo (sunCalcRest) was automatically updated on 15 September 2015 11:49:08 BST by GasGit
+This repo (sunCalcRest) was automatically updated on 28 September 2015 17:44:09 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project sunCalcRest
@@ -22,8 +22,6 @@ SunCalc| SunCalc|M-s0BU6lPDoReqOEZFLzdv6i_d-phDA33|1|no|[here](libraries/SunCalc
 moment| moment|Ma8KMulU4F1uDjuQWo4W1oSz3TLx7pV4j|1|no|[here](libraries/moment "library source")
 SunCalc| SunCalc|M-s0BU6lPDoReqOEZFLzdv6i_d-phDA33|1|no|[here](libraries/SunCalc "library source")
 ### Enabled Google Services
-*library*|*identifier*|*version*
---- | --- | --- 
-Drive API| Drive|v2
+no libraries discovered
 ###Need more detail ?
 You can see [full project info as json here](info.json)
