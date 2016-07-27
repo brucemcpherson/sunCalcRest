@@ -1,5 +1,5 @@
 # Google Apps Script Project: sunCalcRest
-This repo (sunCalcRest) was automatically updated on 28 September 2015 17:44:09 BST by GasGit
+This repo (sunCalcRest) was automatically updated on 27 July 2016 10:35:01 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project sunCalcRest
@@ -14,13 +14,13 @@ forPublishing| server_js
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-moment| moment|Ma8KMulU4F1uDjuQWo4W1oSz3TLx7pV4j|1|no|[here](libraries/moment "library source")
 SunCalc| SunCalc|M-s0BU6lPDoReqOEZFLzdv6i_d-phDA33|1|no|[here](libraries/SunCalc "library source")
+moment| moment|Ma8KMulU4F1uDjuQWo4W1oSz3TLx7pV4j|1|no|[here](libraries/moment "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-moment| moment|Ma8KMulU4F1uDjuQWo4W1oSz3TLx7pV4j|1|no|[here](libraries/moment "library source")
 SunCalc| SunCalc|M-s0BU6lPDoReqOEZFLzdv6i_d-phDA33|1|no|[here](libraries/SunCalc "library source")
+moment| moment|Ma8KMulU4F1uDjuQWo4W1oSz3TLx7pV4j|1|no|[here](libraries/moment "library source")
 ### Enabled Google Services
 no libraries discovered
 ###Need more detail ?
